@@ -75,7 +75,7 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover {
-    background-color: powderblue;
+    background-color: yellow;
 }
 
 td {
